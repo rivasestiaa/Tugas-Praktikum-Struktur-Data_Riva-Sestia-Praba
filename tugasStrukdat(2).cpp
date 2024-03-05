@@ -44,5 +44,9 @@ int main(){ //function//
     cout << endl; //menampilkan garis baru//
 
     delete[] huruf;
-    return 0;
+
+    cout << "Nama    :    Riva Sestia Praba" << endl;
+    cout << "NPM     :    2310631170045" << endl;
+    
+return 0;
 }
