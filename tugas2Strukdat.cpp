@@ -48,5 +48,8 @@ int main(){
     //memutar matriks 90 derajat sekali//
     rotateMatrix(matrix);
 
+    cout << "Nama    :    Riva Sestia Praba" << endl;
+    cout << "NPM     :    2310631170045" << endl;
+
 return 0;
 }
