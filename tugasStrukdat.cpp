@@ -2,10 +2,6 @@
 using namespace std;
 
 int main (){ //function//
-    cout << endl; //untuk menampilkan garis baru//
-    cout << "Nama : Riva Sestia Praba" << endl; //untuk menampilkan nama identitas
-    cout << "NPM : 2310631170045" << endl; //untuk menampilkan NPM//
-    cout << endl;
 
     string nama_mahasiswa[10]; //mengenalkan variabel dengan tipe data yang bisa diisi kalimat//
     string* pNama;
@@ -24,5 +20,11 @@ int main (){ //function//
         pNama++; //supaya pemanggilannya looping sampai akhir//
         cout << endl;
     }
+
+    cout << endl; //untuk menampilkan garis baru//
+    cout << "Nama : Riva Sestia Praba" << endl; //untuk menampilkan nama identitas
+    cout << "NPM : 2310631170045" << endl; //untuk menampilkan NPM//
+    cout << endl;
+    
 return 0; //untuk membuat code setelah ini kembali dari awal//
 }
