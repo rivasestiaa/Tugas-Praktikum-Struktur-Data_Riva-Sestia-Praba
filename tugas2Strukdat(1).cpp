@@ -48,5 +48,8 @@ int main(){
         cout << endl;
     }
 
+    cout << "Nama    :    Riva Sestia Praba" << endl;
+    cout << "NPM     :    2310631170045" << endl;
+    
 return 0; //program kembali ke awal//
 }
